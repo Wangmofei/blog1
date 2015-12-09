@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[Murphy的小世界]]></title>
+  <subtitle><![CDATA[我走的不快 但我从未停歇]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2015-12-09T03:47:31.000Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[从今天开始开拓这个地方]]></title>
+    <link href="http://yoursite.com/2015/12/08/hello-world/"/>
+    <id>http://yoursite.com/2015/12/08/hello-world/</id>
+    <published>2015-12-09T03:47:31.000Z</published>
+    <updated>2015-12-09T03:47:31.000Z</updated>
+    <content type="html"><![CDATA[<p>Welcome to Murphy’s Blog! This is my first post…Nothing gonna happend here Before Finals done… </p>
+<h2 id="u662F_u65F6_u5019_u4E66_u5199_u4E00_u6BB5_u4F20_u5947_u4E86"><a href="#u662F_u65F6_u5019_u4E66_u5199_u4E00_u6BB5_u4F20_u5947_u4E86" class="headerlink" title="是时候书写一段传奇了"></a>是时候书写一段传奇了</h2><h3 id="u6211_u53EBMurphy_2C_u670B_u53CB_u4EEC_u4E5F_u53EB_u6211Murdler"><a href="#u6211_u53EBMurphy_2C_u670B_u53CB_u4EEC_u4E5F_u53EB_u6211Murdler" class="headerlink" title="我叫Murphy,朋友们也叫我Murdler"></a>我叫Murphy,朋友们也叫我Murdler</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">我爱吃肯德基 不喜欢麦当劳</span><br></pre></td></tr></table></figure>
+<p>More info: 熬夜多于早起</p>
+<h3 id="u5728_u8FD9_u91CC_u5199_u4E9B_u6709_u6280_u672F_u542B_u91CF_u7684_u6587_u7AE0_u662F_u4E2A_u597D_u4E3B_u610F"><a href="#u5728_u8FD9_u91CC_u5199_u4E9B_u6709_u6280_u672F_u542B_u91CF_u7684_u6587_u7AE0_u662F_u4E2A_u597D_u4E3B_u610F" class="headerlink" title="在这里写些有技术含量的文章是个好主意"></a>在这里写些有技术含量的文章是个好主意</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">首先我还没有好点子</span><br></pre></td></tr></table></figure>
+<p>More info: 好好学习天天向上</p>
+<h3 id="u6211_u6709_u5F88_u591A_u7684_u68A6_u60F3-_u53EF_u662F_u6211_u7684_u65F6_u95F4_u4E0D_u591F_u7528"><a href="#u6211_u6709_u5F88_u591A_u7684_u68A6_u60F3-_u53EF_u662F_u6211_u7684_u65F6_u95F4_u4E0D_u591F_u7528" class="headerlink" title="我有很多的梦想..可是我的时间不够用"></a>我有很多的梦想..可是我的时间不够用</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">挤挤还是有的..</span><br></pre></td></tr></table></figure>
+<p>More info: 明天就要考试了</p>
+<h3 id="u7231_u97F3_u4E50_u7231_u5065_u8EAB_u7231_u6253_u7403"><a href="#u7231_u97F3_u4E50_u7231_u5065_u8EAB_u7231_u6253_u7403" class="headerlink" title="爱音乐爱健身爱打球"></a>爱音乐爱健身爱打球</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">爱妹子好像忘了说?</span><br></pre></td></tr></table></figure>
+<p>More info: 老实做个程序猿喽</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Welcome to Murphy’s Blog! This is my first post…Nothing gonna happend here Before Finals done… </p>
+<h2 id="u662F_u65F6_u5019_u4E66_u5199]]>
+    </summary>
+    
+      <category term="好好玩" scheme="http://yoursite.com/tags/%E5%A5%BD%E5%A5%BD%E7%8E%A9/"/>
+    
+      <category term="好开心" scheme="http://yoursite.com/tags/%E5%A5%BD%E5%BC%80%E5%BF%83/"/>
+    
+      <category term="好有趣" scheme="http://yoursite.com/tags/%E5%A5%BD%E6%9C%89%E8%B6%A3/"/>
+    
+      <category term="新生" scheme="http://yoursite.com/categories/%E6%96%B0%E7%94%9F/"/>
+    
+  </entry>
+  
+</feed>
