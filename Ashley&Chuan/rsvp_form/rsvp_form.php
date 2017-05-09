@@ -1,7 +1,7 @@
 <?php
 
 // configure
-$from = 'RSVP form <yourmail@domain.com>';
+$from = 'RSVP form <ych1990@Murphy.wang>';
 $sendTo = 'ych1990@gmail.com';
 $subject = 'New message from RSVP form';
 $fields = array('name' => 'Name', 'email' => 'Email', 'events' => 'Events', 'message' => 'Message'); // array variable name => Text to appear in the email
