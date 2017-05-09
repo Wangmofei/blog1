@@ -174,7 +174,7 @@
                 },
         });
 
-        $('#count').countdown('2017/09/01', function(event) {
+        $('#count').countdown('2017/06/25', function(event) {
             $(this).html(event.strftime('' + 
                 '<div class="count-block days">%D<span class="count-label">day%!d</span></div>' + 
                 '<div class="count-block hours">%H<span class="count-label">%!H:hour,hours;</span></div>' + 
